@@ -1,1 +1,4 @@
 # LEDDesignProject
+This is my independent LED Design Project that I completed for BME 590: Medical Devices Design. It involved designing a circuit that would utilize a momentary push button to have an LED change between 5 different states: Bright, Medium Bright, Dull, Flashing at 2 Hz, and Off. Using Altium Designer my designed circuit was etched onto a PCB board, and then this board was soldered, and implemented into a 3D printed casing designed on Fusion 360. Several iterations of my files and planning can be found in the folders along with testing data. For a full review of the device, its functionality and lifespan, and what I think its best design features and flaws are, please see the Google Drive video attached below.
+
+https://drive.google.com/file/d/10A2chvF54NpLTj5GB05tkm2L1opWmMAl/view?usp=sharing
